@@ -3,13 +3,13 @@ plugins {
 }
 
 android {
-    namespace = "com.example.myapplication"
-    compileSdk = 35
+    namespace = "com.example.prmproject"
+    compileSdk = 34
 
     defaultConfig {
-        applicationId = "com.example.myapplication"
+        applicationId = "com.example.prmproject"
         minSdk = 24
-        targetSdk = 35
+        targetSdk = 34
         versionCode = 1
         versionName = "1.0"
 

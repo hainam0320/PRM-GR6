@@ -1,4 +1,4 @@
-package com.example.myapplication;
+package com.example.prmproject;
 
 import android.os.Bundle;
 
